@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "platformVersion": "11.0",
+  "deviceName": "emulator-5554",
+  "appPackage": "dv.fileexplorer.filebrowser.filemanager",
+  "appActivity": "dev.dworks.apps.anexplorer.DocumentsActivity"
+}
